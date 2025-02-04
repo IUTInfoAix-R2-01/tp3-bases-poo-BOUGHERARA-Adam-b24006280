@@ -5,5 +5,4 @@ public class testLivre {
 		
 		System.out.println(livre.toString());
 	}
-
 }
